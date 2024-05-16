@@ -31,3 +31,11 @@ Unsupported database file version or invalid file header in file "/Users/aldhair
 [2024-05-15 22:01:01] [ INFO ] [OdontologoDaoH2:42] iniciando la busqueda de un paciente por id: 2
 [2024-05-15 22:01:01] [ INFO ] [OdontologoDaoH2:24] 1 - Alicia Torres
 [2024-05-15 22:01:01] [ INFO ] [OdontologoDaoH2:24] 2 - Aldhair Vera
+[2024-05-15 22:03:36] [ INFO ] [OdontologoDaoH2:24] inicando la operacion de guardado
+[2024-05-15 22:03:36] [ INFO ] [OdontologoDaoH2:24] inicando la operacion de guardado
+[2024-05-15 22:03:36] [ INFO ] [OdontologoDaoH2:42] iniciando la busqueda de un paciente por id: 1
+[2024-05-15 22:03:36] [ INFO ] [OdontologoDaoH2:42] iniciando la busqueda de un paciente por id: 2
+[2024-05-15 22:03:36] [ INFO ] [OdontologoDaoH2:46] 1 - Alicia Torres
+[2024-05-15 22:03:36] [ INFO ] [OdontologoDaoH2:46] 2 - Aldhair Vera
+[2024-05-15 22:04:47] [ INFO ] [OdontologoDaoH2:39] 1 - Alicia Torres
+[2024-05-15 22:04:47] [ INFO ] [OdontologoDaoH2:39] 2 - Aldhair Vera

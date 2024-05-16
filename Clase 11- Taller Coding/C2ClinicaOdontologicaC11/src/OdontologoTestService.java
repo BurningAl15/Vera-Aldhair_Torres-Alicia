@@ -29,14 +29,12 @@ public class OdontologoTestService {
 
     @Test
     public void listarOdontologos_Collections(){
-        OdontologoCollection odontologoCollection = new OdontologoCollection();
-        Odontologo odontologo1 = new Odontologo(1, 123,"Alicia","Torres");
-        Odontologo odontologo2 = new Odontologo(2, 555,"Aldhair","Vera");
+        OdontologoService odontologoService = new OdontologoService(1);
 
-        odontologoCollection.guardar(odontologo1);
-        odontologoCollection.guardar(odontologo2);
+        odontologoService.guardarOdontologo(new Odontologo(1,123,"Alicia","Torres"));
+        odontologoService.guardarOdontologo(new Odontologo(2,555,"Aldhair","Vera"));
 
-        List<Odontologo> odontologos = odontologoCollection.buscarTodos();
+        List<Odontologo> odontologos = odontologoService.buscarTodos();
         for(int i=0;i<odontologos.size();i++){
             logger.info(odontologos.get(i).getId()+ " - " + odontologos.get(i).getNombre() + " " + odontologos.get(i).getApellido());
         }

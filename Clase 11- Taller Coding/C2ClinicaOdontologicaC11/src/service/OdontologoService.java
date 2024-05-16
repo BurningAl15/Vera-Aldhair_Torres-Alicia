@@ -1,5 +1,6 @@
 package service;
 
+import dao.OdontologoCollection;
 import dao.OdontologoDaoH2;
 import dao.iDao;
 import model.Odontologo;
@@ -12,6 +13,14 @@ public class OdontologoService {
     public OdontologoService() {
         odontologoIDao= new OdontologoDaoH2();
     }
+
+    public OdontologoService(Integer tipo) {
+        if(tipo == 0)
+            odontologoIDao= new OdontologoDaoH2();
+        else
+            odontologoIDao = new OdontologoCollection();
+    }
+
     public Odontologo guardarOdontologo(Odontologo paciente){
         return odontologoIDao.guardar(paciente);
     }
