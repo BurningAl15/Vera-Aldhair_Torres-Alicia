@@ -1,0 +1,22 @@
+[2024-05-15 21:47:41] [ WARN ] [BD:38] Versión del archivo de base de datos no soportada ó encabezado de archivo invalido en archivo "/Users/aldhairvera/C2ClinicaOdontologica.mv.db"
+Unsupported database file version or invalid file header in file "/Users/aldhairvera/C2ClinicaOdontologica.mv.db" [90048-224]
+[2024-05-15 21:49:04] [ WARN ] [BD:38] Versión del archivo de base de datos no soportada ó encabezado de archivo invalido en archivo "/Users/aldhairvera/C2ClinicaOdontologica.mv.db"
+Unsupported database file version or invalid file header in file "/Users/aldhairvera/C2ClinicaOdontologica.mv.db" [90048-224]
+[2024-05-15 21:49:04] [ INFO ] [PacienteDAOH2:26] inicando la operacion de guardado
+[2024-05-15 21:49:04] [ WARN ] [PacienteDAOH2:37] Versión del archivo de base de datos no soportada ó encabezado de archivo invalido en archivo "/Users/aldhairvera/C2ClinicaOdontologica.mv.db"
+Unsupported database file version or invalid file header in file "/Users/aldhairvera/C2ClinicaOdontologica.mv.db" [90048-224]
+[2024-05-15 21:49:04] [ INFO ] [PacienteDAOH2:26] inicando la operacion de guardado
+[2024-05-15 21:49:04] [ WARN ] [PacienteDAOH2:37] Versión del archivo de base de datos no soportada ó encabezado de archivo invalido en archivo "/Users/aldhairvera/C2ClinicaOdontologica.mv.db"
+Unsupported database file version or invalid file header in file "/Users/aldhairvera/C2ClinicaOdontologica.mv.db" [90048-224]
+[2024-05-15 21:50:10] [ INFO ] [BD:35] tabla creada con exito
+[2024-05-15 21:50:10] [ INFO ] [PacienteDAOH2:26] inicando la operacion de guardado
+[2024-05-15 21:50:10] [ INFO ] [PacienteDAOH2:26] inicando la operacion de guardado
+[2024-05-15 21:50:10] [ INFO ] [PacienteDAOH2:44] iniciando la busqueda de un paciente por id: 1
+[2024-05-15 21:50:10] [ INFO ] [PacienteDAOH2:44] iniciando la busqueda de un paciente por id: 2
+[2024-05-15 21:53:22] [ INFO ] [BD:35] tabla creada con exito
+[2024-05-15 21:53:22] [ INFO ] [OdontologoDaoH2:24] inicando la operacion de guardado
+[2024-05-15 21:53:22] [ INFO ] [OdontologoDaoH2:24] inicando la operacion de guardado
+[2024-05-15 21:53:22] [ INFO ] [OdontologoDaoH2:42] iniciando la busqueda de un paciente por id: 1
+[2024-05-15 21:53:22] [ INFO ] [OdontologoDaoH2:42] iniciando la busqueda de un paciente por id: 2
+[2024-05-15 21:53:22] [ INFO ] [OdontologoDaoH2:23] 1 - Alicia Torres
+[2024-05-15 21:53:22] [ INFO ] [OdontologoDaoH2:23] 2 - Aldhair Vera
